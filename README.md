@@ -2,11 +2,11 @@
 
 **Backend Developer · Python · REST APIs · Application Security**
 
-[Русский](#русский) · [English](#english)
+[Rus](#rus) · [Eng](#eng)
 
 ---
 
-## Русский
+## Rus
 
 Пишу backend-сервисы и REST API, проектирую модели данных и интеграции, настраиваю тестирование и контейнерное окружение. Основной стек — **Python, Django REST Framework, FastAPI, Flask и PostgreSQL**. В security-проектах работаю с аутентификацией и авторизацией, контролем доступа, SCA/SBOM и уязвимостями API.
 
@@ -28,7 +28,7 @@
 
 ---
 
-## English
+## Eng
 
 I build backend services and REST APIs, design data models and integrations, and set up testing and containerized environments. My primary stack is **Python, Django REST Framework, FastAPI, Flask, and PostgreSQL**. In security projects, I work with authentication and authorization, access control, SCA/SBOM, and API vulnerabilities.
 
