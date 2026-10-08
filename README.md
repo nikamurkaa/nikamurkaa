@@ -1,7 +1,7 @@
 <h1 align="center">Nicole Zhurbenko ♡ Николь Журбенко</h1>
 
 <p align="center">
-  <strong>Backend Developer · Python · REST APIs · Application Security</strong>
+  <strong>Python Backend Developer · Application Security · AI Security</strong>
 </p>
 
 ### Projects
